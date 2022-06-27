@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🔗 Blockchain Developer 🛒 Shopify Developer 📲 Mobile Develoer </h1>
+<h1 align="center"> 🔗 Blockchain Developer<br> 🛒 Shopify Developer<br> 📲 Mobile Develoer<br> </h1>
 
 ---
 
