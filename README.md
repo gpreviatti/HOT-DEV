@@ -1,33 +1,11 @@
 
-<h3 align="center">🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer</h3>
+<h3 align="center"> 🔗 Blockchain Developer 🛒 Shopify Developer 📲 Mobile Develoer </h3>
 
-- 🌱 I’m currently learning **Web3**
+- 👋 I am a senior Developer with 7 years of development experience.
 
-- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
+- 🌱 I’m currently leading a dev team.
 
-- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **rakesh@itsrakesh.co**
-
-### 🤝 Connect with me:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.co)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rakesh_at_tweet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsrakeshdotco)
-
----
-
-### 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Most active Developer Communities you should join in 2022](https://medium.com/@itsrakesh/most-active-developer-communities-you-should-join-in-2022-cb7254f8620?source=rss-e09c62468ad2------2)
-- [What is Blockchain? How does it work? Why do we need it?](https://medium.com/codex/what-is-blockchain-how-does-it-work-why-do-we-need-it-2e748a8edcc9?source=rss-e09c62468ad2------2)
-- [Join me in the #100DaysOfWeb3 challenge](https://medium.com/@itsrakesh/join-me-in-the-100daysofweb3-challenge-abc13e831d27?source=rss-e09c62468ad2------2)
-- [Taking Open Source contributions and communities to next level with the Reward System](https://medium.com/codex/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system-9d6e943cef48?source=rss-e09c62468ad2------2)
-- [How the Web works — Behind the scenes](https://bootcamp.uxdesign.cc/how-the-web-works-behind-the-scenes-a7e54a1a240f?source=rss-e09c62468ad2------2)
-<!-- BLOG-POST-LIST:END -->
+- 💬 Ask me about **Blockchain, Shopify, Mobile Development**
 
 ---
 
@@ -39,16 +17,14 @@
 ---
 
 ### 🧑‍💻 Languages
-
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://itsrakesh.co)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://itsrakesh.co)
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://itsrakesh.co)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://itsrakesh.co)
-[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://itsrakesh.co)
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://itsrakesh.co)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://itsrakesh.co)
-[![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://itsrakesh.co)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://itsrakesh.co)
+[![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)]
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 
 ### 🧩 Frameworks/Libraries
 
