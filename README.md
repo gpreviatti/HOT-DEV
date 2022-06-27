@@ -1,7 +1,5 @@
 
-<h3 align="center"> 🔗 Blockchain Developer 🛒 Shopify Developer 📲 Mobile Develoer </h3>
-
-- 👋 I am a senior Developer with 7 years of development experience.
+<h1 align="center"> 🔗 Blockchain Developer 🛒 Shopify Developer 📲 Mobile Develoer </h1>
 
 ---
 
