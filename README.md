@@ -2,22 +2,15 @@
 <h3 align="center"> 🔗 Blockchain Developer 🛒 Shopify Developer 📲 Mobile Develoer </h3>
 
 - 👋 I am a senior Developer with 7 years of development experience.
-
-- 🌱 I’m currently leading a dev team.
-
-- 💬 Ask me about **Blockchain, Shopify, Mobile Development**
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
-
+- 
 ---
 
 ### 🧑‍💻 Languages
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![Web3](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
