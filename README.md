@@ -37,3 +37,16 @@
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+ <h2 align="left" id="macropower-tech">Github Stats  </h2>
+
+<div align="center">
+  <a href="https://github.com/HOT-DEV">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HOT-DEV&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOT-DEV&layout=compact&langs_count=7&theme=gruvbox" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HOT-DEV&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+</div>
