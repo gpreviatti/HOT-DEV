@@ -4,14 +4,14 @@
   </a>
 </h1>
 
-<a href="https://app.daily.dev/hotdev"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card"/></a>
-
-
 <p  width="250">
  
 ![Metrics](https://metrics.lecoq.io/HOT-DEV?template=classic&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
 
 </p>
+
+<a href="https://app.daily.dev/hotdev"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card"/></a>
+
 
 ---
 
