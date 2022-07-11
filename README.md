@@ -1,5 +1,13 @@
+<h1 align="center">
+ <a href="https://github.com/HOT-DEV">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Ishimoto+Yamada+-+Designer+and+Developer;Mobile+Applicationand+and+API+Engineer;Shopify+and+Frontend+Developer;Solidity+and+React+Developer;&center=true&width=450&height=50&font=georgia">
+  </a>
+</h1>
 
-<h1 align="center"> 🔗 Blockchain Developer<br> 🛒 Shopify Developer<br> 📲 Mobile Developer<br> </h1>
+<p  width="250">
+</p>
+
+<a href="https://app.daily.dev/hotdev"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card"/></a>
 
 ---
 
@@ -15,10 +23,8 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="https://app.daily.dev/hotdev"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card"/></a>
-
 ---
-### Frameworks/Libraries
+### Framew  orks/Libraries
 
 ![Web3](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,11 +42,14 @@
 ![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
+
 ### Databases
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
  <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
