@@ -1,19 +1,15 @@
 <h1 align="center">
  <a href="https://github.com/HOT-DEV">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Ishimoto+Yamada+-+Designer+and+Developer;Mobile+Applicationand+and+API+Engineer;Shopify+and+Frontend+Developer;Solidity+and+React+Developer;&center=true&width=450&height=50&font=georgia">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer+and+Technical+Partner;Senior+API+and+Mobile+Developer;Shopify+and+Frontend+Engineer;Smart+Contract+Engineer;&center=true&width=450&height=50&font=georgia">
   </a>
 </h1>
 
-<p  width="250">
- 
+<p  width="100%" style="display:flex; flex-direction:row; flex-wrap:nowrap;">
+<!-- 
 ![Metrics](https://metrics.lecoq.io/HOT-DEV?template=classic&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
+-->
 
-</p>
-
-<a href="https://app.daily.dev/hotdev"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card"/></a>
-
-
----
+<span align="left">
 
 ### Languages
 
@@ -52,6 +48,12 @@
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</span>
+
+<a align="right" href="https://app.daily.dev/hotdev"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card" ></a>
+
+</p>
 
 ---
 
