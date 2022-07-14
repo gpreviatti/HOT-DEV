@@ -5,10 +5,10 @@
 </h1>
 
 ---
-
-<center align="center">
+<!--
 <a href="https://app.daily.dev/hotdev" align="right"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card" /></a>
-<div align="left">
+-->
+
 <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
@@ -20,8 +20,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HOT-DEV&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
-</div>
-</center>
 
 ### Languages
 
