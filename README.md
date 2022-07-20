@@ -17,7 +17,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOT-DEV&layout=compact&langs_count=7&theme=gruvbox" />
   </a>
 </div>
-<div align="center">
+<div align="center" width="100">
   <img src="https://github-profile-trophy.vercel.app/?username=HOT-DEV&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
 
