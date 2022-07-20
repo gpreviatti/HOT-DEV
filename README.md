@@ -9,18 +9,6 @@
 <a href="https://app.daily.dev/hotdev" align="right"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card" /></a>
 -->
 
-<h2 align="left" id="macropower-tech">Github Stats  </h2>
-
-<div align="center">
-  <a href="https://github.com/HOT-DEV">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HOT-DEV&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOT-DEV&layout=compact&langs_count=7&theme=gruvbox" />
-  </a>
-</div>
-<div align="center" width="100">
-  <img src="https://github-profile-trophy.vercel.app/?username=HOT-DEV&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
-</div>
-
 ### Languages
 
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
@@ -58,3 +46,17 @@
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+<h2 align="left" id="macropower-tech">Github Stats  </h2>
+
+<div align="center">
+  <a href="https://github.com/HOT-DEV">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HOT-DEV&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOT-DEV&layout=compact&langs_count=7&theme=gruvbox" />
+  </a>
+</div>
+<div align="center" width="100">
+  <img src="https://github-profile-trophy.vercel.app/?username=HOT-DEV&column=8&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+</div>
