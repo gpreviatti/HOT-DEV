@@ -1,5 +1,7 @@
-<img align="center" src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card" align="center" />
 
+<p align="center" >
+  <img align="center" src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Lucas's Dev Card" />  
+</p>
 <p align="center">
   <a href="https://github.com/HOT-DEV"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Blockchain%20Developer;10%2B%20years%20of%20developing%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
