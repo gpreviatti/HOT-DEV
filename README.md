@@ -2,16 +2,18 @@
 <p align="center" >
   <img align="center" src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Lucas's Dev Card" />  
 </p>
+
 <p align="center">
-  <a href="https://github.com/HOT-DEV"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Blockchain%20Developer;10%2B%20years%20of%20developing%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/HOT-DEV"><img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify%20and%20Mobile%20Engineer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+<!--
 <h2 align="left" id="macropower-tech">💻Tech Stack</h2>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <br><br>
 </p>
-
+-->
 <hr>
 
 
